@@ -1,5 +1,5 @@
 {
-	"numberOfAlbums": 1,
+	"numberOfPages": 1,
 	"perPage": 20,
 	"listUrlTemplate": "https://raw.githubusercontent.com/duyphuong5126/nonoka_asmr_db/refs/heads/main/v1/p%d.json"
 }
